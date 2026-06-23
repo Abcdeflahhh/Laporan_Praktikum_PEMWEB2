@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 E-Inventory Web Application  
-### UAS Pemrograman Web 2 - Decoupled Architecture Project
+### LAPORAN PRAKTIKUM WEB 2 - Decoupled Architecture Project
 
 <img src="https://img.shields.io/badge/Project-UAS%20Web%202-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
@@ -24,9 +24,9 @@
 
 </div>
 
-# UAS Pemrograman Web 2
+# Laporan Praktikum Pemrograman Web 2
 
-## Sistem Manajemen Inventaris Barang (E-Inventory)
+## Web Artikel
 
 ## 🧑‍💻 Developer Profile
 
