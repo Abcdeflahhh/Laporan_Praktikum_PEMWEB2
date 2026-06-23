@@ -1,0 +1,25 @@
+## Informasi Hosting Aplikasi
+
+**URL Hosting**
+https://lab11-vuejs-demo.netlify.app
+
+**Halaman Utama**
+https://lab11-vuejs-demo.netlify.app/#/
+
+**Halaman About**
+https://lab11-vuejs-demo.netlify.app/about
+
+**Akun Administrator**
+
+* Username : admin
+* Email : [admin@lab11vuejs.com](mailto:admin@lab11vuejs.com)
+* Password : Admin123!
+
+**Akun Pengguna**
+
+* Username : user
+* Email : [user@lab11vuejs.com](mailto:user@lab11vuejs.com)
+* Password : User123!
+
+**Keterangan**
+Aplikasi telah berhasil dihosting dan dapat diakses secara online melalui URL yang tersedia. Pengguna dapat menggunakan akun administrator untuk mengelola data sistem, sedangkan akun pengguna digunakan untuk mengakses fitur umum aplikasi.
