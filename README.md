@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 E-Inventory Web Application  
+# 🚀 Articel Web Application  
 ### LAPORAN PRAKTIKUM WEB 2 - Decoupled Architecture Project
 
 <img src="https://img.shields.io/badge/Project-UAS%20Web%202-blue?style=for-the-badge" />
